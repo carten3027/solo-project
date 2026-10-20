@@ -1,15 +1,7 @@
 fileFormatVersion: 2
-guid: c4f2be6ec434a7f459aa4b66ff7fa133
+guid: ab91fbcdfb0b198488a82fc2d42a95fb
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 187605
-  packageName: Pixel Art Top Down - Basic
-  packageVersion: 1.2.3
-  assetPath: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Struct - Stairs
-    E 01.prefab
-  uploadId: 984918

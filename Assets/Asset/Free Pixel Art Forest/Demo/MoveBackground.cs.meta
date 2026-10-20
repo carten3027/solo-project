@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6e9e32b7281e96947899f72129830dbf
+guid: 4a34e0e053f40634e9e9ecbda514a5e8
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
@@ -9,10 +9,3 @@ MonoImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 133112
-  packageName: Free Pixel Art Forest
-  packageVersion: 2.5
-  assetPath: Assets/Free Pixel Art Forest/Demo/MoveBackground.cs
-  uploadId: 977418

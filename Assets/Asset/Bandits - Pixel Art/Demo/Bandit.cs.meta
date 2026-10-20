@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ba8b435a8dc3f604e9a13c4acd7081c2
+guid: 1ea48159c3db3884a86d2ee6cc4f7570
 timeCreated: 1525578946
 licenseType: Store
 MonoImporter:
@@ -10,10 +10,3 @@ MonoImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 104130
-  packageName: Bandits - Pixel Art
-  packageVersion: 2.2
-  assetPath: Assets/Bandits - Pixel Art/Demo/Bandit.cs
-  uploadId: 384983

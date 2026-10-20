@@ -1,16 +1,8 @@
 fileFormatVersion: 2
-guid: a959b762bdf49ed4ebbf171ad48d89df
+guid: 73a230e3b4213ed489b35f17ee8c5c56
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 187605
-  packageName: Pixel Art Top Down - Basic
-  packageVersion: 1.2.3
-  assetPath: Assets/Cainos/Pixel Art Top Down - Basic/Tile Palette/TP Stone Ground/TX
-    Tileset Stone Ground_45.asset
-  uploadId: 984918

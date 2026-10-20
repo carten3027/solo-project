@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5a4c8d3218ab79b409d9aef43f4992b7
+guid: bd56da3a8c41f3e40910adf1649a1fd6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -89,10 +89,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 133112
-  packageName: Free Pixel Art Forest
-  packageVersion: 2.5
-  assetPath: Assets/Free Pixel Art Forest/You may also like/Pixel Art Snowy Forest.png
-  uploadId: 977418

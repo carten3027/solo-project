@@ -1,15 +1,7 @@
 fileFormatVersion: 2
-guid: f3cc2373308c11848977b28d974a9de0
+guid: 3ac6213a2a78ccf41899acdcf4b2c74c
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 187605
-  packageName: Pixel Art Top Down - Basic
-  packageVersion: 1.2.3
-  assetPath: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props - Pot
-    03.prefab
-  uploadId: 984918

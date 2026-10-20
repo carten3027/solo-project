@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ec47f75fe8aff1644ac73998f4ad31b5
+guid: 733e3d46be6fded41921a4ceed850cfd
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -257,10 +257,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 187605
-  packageName: Pixel Art Top Down - Basic
-  packageVersion: 1.2.3
-  assetPath: Assets/Cainos/Pixel Art Top Down - Basic/Texture/TX Player.png
-  uploadId: 984918

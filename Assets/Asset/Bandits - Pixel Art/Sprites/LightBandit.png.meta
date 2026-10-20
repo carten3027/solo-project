@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: f2ed27d6c1c3ccc48959bcca269d88f0
-AssetOrigin:
-  serializedVersion: 1
-  productId: 104130
-  packageName: Bandits - Pixel Art
-  packageVersion: 2.2
-  assetPath: Assets/Bandits - Pixel Art/Sprites/LightBandit.png
-  uploadId: 384983
+guid: 8eb7b217e2659d743abd29962ba37917
 TextureImporter:
   internalIDToNameTable:
   - first:

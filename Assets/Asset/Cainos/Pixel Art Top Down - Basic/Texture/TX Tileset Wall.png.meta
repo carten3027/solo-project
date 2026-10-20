@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9f8f114589864b6489859a58fbb6baf9
+guid: 215789de578c7444e9d410210c5c5000
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -1798,10 +1798,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 187605
-  packageName: Pixel Art Top Down - Basic
-  packageVersion: 1.2.3
-  assetPath: Assets/Cainos/Pixel Art Top Down - Basic/Texture/TX Tileset Wall.png
-  uploadId: 984918

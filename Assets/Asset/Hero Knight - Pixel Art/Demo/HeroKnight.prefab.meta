@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: a4b4a6d32bcb19248a754d6602ffc7e4
+guid: df5ae695e1d4d8c47ae03a08e16949d9
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 165188
-  packageName: Hero Knight - Pixel Art
-  packageVersion: 1.2
-  assetPath: Assets/Hero Knight - Pixel Art/Demo/HeroKnight.prefab
-  uploadId: 447637

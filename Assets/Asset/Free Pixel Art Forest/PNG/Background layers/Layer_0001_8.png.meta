@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7d8ec9a919288a946b8955907e24a299
+guid: e17a0d569f19fed4ca574ba5bd3217d9
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -115,10 +115,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 133112
-  packageName: Free Pixel Art Forest
-  packageVersion: 2.5
-  assetPath: Assets/Free Pixel Art Forest/PNG/Background layers/Layer_0001_8.png
-  uploadId: 977418

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 13d0e62721e731a47916713e45e4ef50
+guid: 6875a2887e666e04ab3eac743316c078
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
@@ -9,10 +9,3 @@ MonoImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 187605
-  packageName: Pixel Art Top Down - Basic
-  packageVersion: 1.2.3
-  assetPath: Assets/Cainos/Pixel Art Top Down - Basic/Script/CameraFollow.cs
-  uploadId: 984918

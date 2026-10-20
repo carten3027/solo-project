@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: a75445bb16444f14f96fdf9c734945cc
-AssetOrigin:
-  serializedVersion: 1
-  productId: 165188
-  packageName: Hero Knight - Pixel Art
-  packageVersion: 1.2
-  assetPath: Assets/Hero Knight - Pixel Art/Sprites/BlockFlash.png
-  uploadId: 447637
+guid: 426505c93bb258d4ba311aeb4063a35b
 TextureImporter:
   internalIDToNameTable:
   - first:

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1ecad76f5afc08c4baa59e2c3946bd55
+guid: cd9273df4c19ae142a341e7f872c369d
 ShaderImporter:
   externalObjects: {}
   defaultTextures: []
@@ -7,10 +7,3 @@ ShaderImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 187605
-  packageName: Pixel Art Top Down - Basic
-  packageVersion: 1.2.3
-  assetPath: Assets/Cainos/Pixel Art Top Down - Basic/Shader/SH Sprite Shadow Mask.shader
-  uploadId: 984918

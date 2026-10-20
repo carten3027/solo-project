@@ -1,15 +1,8 @@
 fileFormatVersion: 2
-guid: 9adbb6eb25891a14b892bd7583d64ce7
-timeCreated: 1514705845
-licenseType: Store
+guid: 374c32e90226bbc4da1e72cfb2fe9cd2
 NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 104130
-  packageName: Bandits - Pixel Art
-  packageVersion: 2.2
-  assetPath: Assets/Bandits - Pixel Art/Animations/Heavy Bandit/HeavyBandit_Death.anim
-  uploadId: 384983

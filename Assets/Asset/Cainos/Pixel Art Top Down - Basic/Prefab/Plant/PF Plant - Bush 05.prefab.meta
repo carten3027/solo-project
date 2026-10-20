@@ -1,15 +1,7 @@
 fileFormatVersion: 2
-guid: 9fb66d8c9d3b5194a82e9eed65a54afb
+guid: 7e4aef300df33474e86e211b7275ebf5
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 187605
-  packageName: Pixel Art Top Down - Basic
-  packageVersion: 1.2.3
-  assetPath: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Plant - Bush
-    05.prefab
-  uploadId: 984918

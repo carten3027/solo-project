@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: 7fb51a422c4a36e40b71b06331a74b11
-AssetOrigin:
-  serializedVersion: 1
-  productId: 165188
-  packageName: Hero Knight - Pixel Art
-  packageVersion: 1.2
-  assetPath: Assets/Hero Knight - Pixel Art/Sprites/SlideDust.png
-  uploadId: 447637
+guid: 2831f0a211486354fae5f6f1ea46bf20
 TextureImporter:
   internalIDToNameTable:
   - first:

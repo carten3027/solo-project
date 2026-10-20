@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: 432e48af0c833ad4587d222b812b844f
-AssetOrigin:
-  serializedVersion: 1
-  productId: 165188
-  packageName: Hero Knight - Pixel Art
-  packageVersion: 1.2
-  assetPath: Assets/Hero Knight - Pixel Art/Sprites/HeroKnight_DeathNoBlood.png
-  uploadId: 447637
+guid: 669a643cf6801d642b8bee053bc25800
 TextureImporter:
   internalIDToNameTable:
   - first:

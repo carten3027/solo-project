@@ -1,15 +1,8 @@
 fileFormatVersion: 2
-guid: a3f5e82170913a042b8a1a7ca021cd41
+guid: 8848d9c48afec3642a4df45ba521fea7
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 165188
-  packageName: Hero Knight - Pixel Art
-  packageVersion: 1.2
-  assetPath: Assets/Hero Knight - Pixel Art/Environment/EnvironmentTiles_0.asset
-  uploadId: 447637

@@ -1,16 +1,8 @@
 fileFormatVersion: 2
-guid: 5c0720cf3f2e0fd40ab1e12cd776ccdc
+guid: 543e5b8b196f70444bc7ae2a4530d083
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 187605
-  packageName: Pixel Art Top Down - Basic
-  packageVersion: 1.2.3
-  assetPath: Assets/Cainos/Pixel Art Top Down - Basic/Tile Palette/TP Wall/TX Tileset
-    Wall_30.asset
-  uploadId: 984918

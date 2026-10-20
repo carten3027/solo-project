@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dda6bbdb704d84847b38f9eced72bf59
+guid: 7a23491103b32ed44b1fdc256f40d947
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -889,10 +889,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 187605
-  packageName: Pixel Art Top Down - Basic
-  packageVersion: 1.2.3
-  assetPath: Assets/Cainos/Pixel Art Top Down - Basic/Texture/TX Struct.png
-  uploadId: 984918

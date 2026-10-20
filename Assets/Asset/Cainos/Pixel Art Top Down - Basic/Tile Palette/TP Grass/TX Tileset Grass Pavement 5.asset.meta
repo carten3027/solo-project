@@ -1,16 +1,8 @@
 fileFormatVersion: 2
-guid: 9d261fa57a186304eb7c71bcd3920f52
+guid: 4bf58597fd7949c4ea4231126fce9b23
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 187605
-  packageName: Pixel Art Top Down - Basic
-  packageVersion: 1.2.3
-  assetPath: Assets/Cainos/Pixel Art Top Down - Basic/Tile Palette/TP Grass/TX Tileset
-    Grass Pavement 5.asset
-  uploadId: 984918

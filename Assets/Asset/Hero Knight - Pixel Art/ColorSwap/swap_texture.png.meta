@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5f8c87aa3e6c2aa47bee2ff396a98f2c
+guid: 9b371be13dc7dd040ae4b309d6b5ab3f
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
@@ -86,10 +86,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 165188
-  packageName: Hero Knight - Pixel Art
-  packageVersion: 1.2
-  assetPath: Assets/Hero Knight - Pixel Art/ColorSwap/swap_texture.png
-  uploadId: 447637

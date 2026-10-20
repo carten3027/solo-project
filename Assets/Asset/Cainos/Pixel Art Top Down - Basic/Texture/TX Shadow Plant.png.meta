@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8501e10b1eafde34586080ba342fdc0e
+guid: 219561a6342515c48bd017aa8fb8cba1
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -502,10 +502,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 187605
-  packageName: Pixel Art Top Down - Basic
-  packageVersion: 1.2.3
-  assetPath: Assets/Cainos/Pixel Art Top Down - Basic/Texture/TX Shadow Plant.png
-  uploadId: 984918

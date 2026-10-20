@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: 317b8365a4649ab459f6cb58ec8f9f18
-AssetOrigin:
-  serializedVersion: 1
-  productId: 104130
-  packageName: Bandits - Pixel Art
-  packageVersion: 2.2
-  assetPath: Assets/Bandits - Pixel Art/Sprites/HeavyBandit.png
-  uploadId: 384983
+guid: f124d63b317fe8d42af7103ea3df27d8
 TextureImporter:
   internalIDToNameTable:
   - first:

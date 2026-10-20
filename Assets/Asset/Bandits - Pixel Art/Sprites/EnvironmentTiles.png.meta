@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: e10f9fe96b3acda42b06f252bba789de
-AssetOrigin:
-  serializedVersion: 1
-  productId: 104130
-  packageName: Bandits - Pixel Art
-  packageVersion: 2.2
-  assetPath: Assets/Bandits - Pixel Art/Sprites/EnvironmentTiles.png
-  uploadId: 384983
+guid: 4d8e2615471f6ae468932a58c2da7db7
 TextureImporter:
   internalIDToNameTable:
   - first:

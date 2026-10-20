@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: 2f7eeaf41636b0f4f8ca52ea6858fd36
+guid: c03479050a31f8846beee9e428aec241
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 165188
-  packageName: Hero Knight - Pixel Art
-  packageVersion: 1.2
-  assetPath: Assets/Hero Knight - Pixel Art/Demo/HeroKnight_Green.prefab
-  uploadId: 447637

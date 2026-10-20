@@ -1,15 +1,8 @@
 fileFormatVersion: 2
-guid: b810f2280bb2a6b4cbf996716e6e3d55
-timeCreated: 1514705890
-licenseType: Store
+guid: 9a11fc42512e3624a9f7ba33ddfcd5ba
 NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 104130
-  packageName: Bandits - Pixel Art
-  packageVersion: 2.2
-  assetPath: Assets/Bandits - Pixel Art/Animations/Heavy Bandit/HeavyBandit_AnimController.overrideController
-  uploadId: 384983

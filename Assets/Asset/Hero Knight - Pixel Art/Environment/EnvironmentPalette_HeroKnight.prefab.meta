@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: d0a86346e04015245ae6126e465b87c0
+guid: e1b8ac225c8f93f4d9a5c77627429857
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 165188
-  packageName: Hero Knight - Pixel Art
-  packageVersion: 1.2
-  assetPath: Assets/Hero Knight - Pixel Art/Environment/EnvironmentPalette_HeroKnight.prefab
-  uploadId: 447637

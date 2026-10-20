@@ -1,15 +1,7 @@
 fileFormatVersion: 2
-guid: c5c395a83c3338d46bd52e936cf46245
+guid: 68f8b9532efd58841a56ffdaa0e26297
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 187605
-  packageName: Pixel Art Top Down - Basic
-  packageVersion: 1.2.3
-  assetPath: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Plant/PF Plant - Grass
-    13.prefab
-  uploadId: 984918

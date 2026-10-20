@@ -1,15 +1,7 @@
 fileFormatVersion: 2
-guid: ebdc6ef285e0bf542bed7e9c1bfb9923
+guid: 1f48c4c9966016642a879e6c7d248746
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 187605
-  packageName: Pixel Art Top Down - Basic
-  packageVersion: 1.2.3
-  assetPath: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Props/PF Props - Brick
-    01.prefab
-  uploadId: 984918

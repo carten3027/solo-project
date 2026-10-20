@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: f094595c900579d4c85a02612d8fa36c
-AssetOrigin:
-  serializedVersion: 1
-  productId: 165188
-  packageName: Hero Knight - Pixel Art
-  packageVersion: 1.2
-  assetPath: Assets/Hero Knight - Pixel Art/Sprites/EnvironmentTiles.png
-  uploadId: 447637
+guid: 3cb57d1e33828d34e8f0593191280088
 TextureImporter:
   internalIDToNameTable:
   - first:

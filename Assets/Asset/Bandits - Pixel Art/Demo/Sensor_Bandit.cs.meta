@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4beb47d3f52622a4db6bba0f8809ce39
+guid: 2212d2b33d37d774c98bd67dc187d462
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
@@ -9,10 +9,3 @@ MonoImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 104130
-  packageName: Bandits - Pixel Art
-  packageVersion: 2.2
-  assetPath: Assets/Bandits - Pixel Art/Demo/Sensor_Bandit.cs
-  uploadId: 384983

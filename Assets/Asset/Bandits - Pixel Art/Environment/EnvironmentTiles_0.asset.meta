@@ -1,15 +1,8 @@
 fileFormatVersion: 2
-guid: 099dfb8d0a4c81443afd494f1dd4efdb
+guid: 880f042bf6ea3cb41bd25b01f867d12d
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 104130
-  packageName: Bandits - Pixel Art
-  packageVersion: 2.2
-  assetPath: Assets/Bandits - Pixel Art/Environment/EnvironmentTiles_0.asset
-  uploadId: 384983

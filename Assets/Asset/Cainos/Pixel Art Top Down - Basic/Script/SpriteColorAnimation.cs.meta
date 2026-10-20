@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 09ca5a4575c17ac4897d1f972b5f6b51
+guid: c3f6c5b4726881545ba099606525ab38
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
@@ -9,10 +9,3 @@ MonoImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 187605
-  packageName: Pixel Art Top Down - Basic
-  packageVersion: 1.2.3
-  assetPath: Assets/Cainos/Pixel Art Top Down - Basic/Script/SpriteColorAnimation.cs
-  uploadId: 984918

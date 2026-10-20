@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0ce96aa6462620e47ac56eccbb027deb
+guid: 8614f7590490e4646b55d4bc0a749dae
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
@@ -97,10 +97,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 104130
-  packageName: Bandits - Pixel Art
-  packageVersion: 2.2
-  assetPath: Assets/Bandits - Pixel Art/Sprites/Background.png
-  uploadId: 384983
